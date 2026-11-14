@@ -1,5 +1,5 @@
 {
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "OpsChain - LimePoint's governed operations platform (CLI, server and runner in one binary)",
   "homepage": "https://opschain.io/",
   "license": {
@@ -8,12 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/LimePoint/opschain-releases/releases/download/v5.7.0/opschain-v5.7.0-windows-amd64.zip",
-      "hash": "1030073f00cf790ccaa154d2b29196b84df78878f9869cfc68b2808fdfa04bb3"
+      "url": "https://github.com/LimePoint/opschain-releases/releases/download/v5.7.1/opschain-v5.7.1-windows-amd64.zip",
+      "hash": "4f88c767330fdbd39146ef67dd09e2d33771cd2d1bdccac3135d3bdf1a1e3fbc"
     },
     "arm64": {
-      "url": "https://github.com/LimePoint/opschain-releases/releases/download/v5.7.0/opschain-v5.7.0-windows-arm64.zip",
-      "hash": "db0576a3ad2901161a31dd01120e81cb652ed03930d23784e27ecf352ccbc44b"
+      "url": "https://github.com/LimePoint/opschain-releases/releases/download/v5.7.1/opschain-v5.7.1-windows-arm64.zip",
+      "hash": "541f9260146d4c8eef78c27b4b81acce9de7de736b16f538d89df5df02253d74"
     }
   },
   "bin": "opschain.exe",
